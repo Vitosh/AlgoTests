@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K_sort", "K_sort\K_sort.csproj", "{428EAAE7-7382-490A-83F6-DCB0B880B765}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{ECF8CAE3-B45A-4A8B-869A-4E9A9A9858C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{428EAAE7-7382-490A-83F6-DCB0B880B765}.Debug|x86.ActiveCfg = Debug|x86
+		{428EAAE7-7382-490A-83F6-DCB0B880B765}.Debug|x86.Build.0 = Debug|x86
+		{428EAAE7-7382-490A-83F6-DCB0B880B765}.Release|x86.ActiveCfg = Release|x86
+		{428EAAE7-7382-490A-83F6-DCB0B880B765}.Release|x86.Build.0 = Release|x86
+		{ECF8CAE3-B45A-4A8B-869A-4E9A9A9858C6}.Debug|x86.ActiveCfg = Debug|x86
+		{ECF8CAE3-B45A-4A8B-869A-4E9A9A9858C6}.Debug|x86.Build.0 = Debug|x86
+		{ECF8CAE3-B45A-4A8B-869A-4E9A9A9858C6}.Release|x86.ActiveCfg = Release|x86
+		{ECF8CAE3-B45A-4A8B-869A-4E9A9A9858C6}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = test\test.csproj
+	EndGlobalSection
+EndGlobal

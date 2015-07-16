@@ -129,7 +129,7 @@ def locate_minimal(a, b):
     while (a<b):
         level = 1
         while True:
-            parent_on_level = get_parent_on_levels(a,level)
+            parent_on_level = get_parent_on_levels(a,level)---
             if parent_in_range(parent_on_level,a,b,level):
                 level+=1
                 last_parent = tree[parent_on_level]

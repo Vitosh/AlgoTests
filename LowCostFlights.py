@@ -28,7 +28,7 @@ while (len(result_airports)<=int_total_numbers_count) and not all(z == 0 for z i
     
     print(plane_coming_from_airport)
     
-    home_airport = len(result) % position_of_minimal_in_array 
+    #home_airport = len(result) % position_of_minimal_in_array 
     result[position_of_minimal_in_array] = 0
     keeping_min_position = position_of_minimal_in_array 
     position_of_minimal_in_array = ((position_of_minimal_in_array) % (int_total_numbers_count))

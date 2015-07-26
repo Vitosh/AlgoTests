@@ -1,5 +1,6 @@
 #https://arena.topcoder.com/#/u/practiceCode/16527/48824/13917/2/326683
-#tests with results:
+#tests with results, uncomment for input:
+
 #jecjxsengslsmeijrmcx
 #tcfyhumjcvgkafhhffed
 #icmgxrlalmhnwwdhqerc

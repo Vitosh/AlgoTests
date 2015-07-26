@@ -75,6 +75,7 @@ dict_2_highest_repetition = dict_2[dict_2_highest]
 print(dict_1_highest_repetition)
 print(dict_2_highest_repetition)
 print(len(matrix)*2)
+
 #check if we have a problem here:
 if dict_1_highest == dict_2_highest:
     dict_1[dict_1_highest] = 0

@@ -126,4 +126,3 @@ for y in range(0, matrix_doubled_size):
 print_matrix(list_total_results)   
 print("The required results is:")
 print(list_total_results[starting_point][ending_point])
-
